@@ -1,3 +1,5 @@
+仓库来自分支：https://github.com/doreamon-design/clash
+
 <h1 align="center">
   <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
   <br>Clash<br>
