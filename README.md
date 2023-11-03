@@ -1,3 +1,5 @@
+原仓库链接：https://github.com/Dreamacro/clash
+
 仓库来自分支：https://github.com/doreamon-design/clash
 
 <h1 align="center">
